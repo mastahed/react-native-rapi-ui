@@ -12,7 +12,7 @@ import {
 } from "react-native-rapi-ui";
 import { StackScreenProps } from "@react-navigation/stack";
 import { MainStackParamList } from "../types/navigation";
-import { Ionicons } from "@expo/vector-icons";
+import Ionicons from "react-native-vector-icons/Ionicons";
 
 export default function ({
   navigation,
