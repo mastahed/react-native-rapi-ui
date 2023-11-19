@@ -8,7 +8,7 @@ import {
   ViewStyle,
 } from "react-native";
 import { component, themeColor } from "../../constants/colors";
-import { Ionicons } from "@expo/vector-icons";
+import Ionicons from "react-native-vector-icons/Ionicons";
 import { useTheme } from "../../provider/ThemeProvider";
 
 interface Props {
