@@ -13,7 +13,7 @@ import {
 } from "react-native";
 import Text from "../Text/Text";
 import { component, themeColor } from "../../constants/colors";
-import { Ionicons } from "@expo/vector-icons";
+import Ionicons from "react-native-vector-icons/Ionicons";
 import { fontSize } from "../../constants/typography";
 import { useTheme } from "../../provider/ThemeProvider";
 
