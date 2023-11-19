@@ -7,7 +7,7 @@ import {
   themeColor,
   useTheme,
 } from "react-native-rapi-ui";
-import { Ionicons } from "@expo/vector-icons";
+import Ionicons from "react-native-vector-icons/Ionicons";
 import { TouchableOpacity } from "react-native-gesture-handler";
 import { StackScreenProps } from "@react-navigation/stack";
 import { MainStackParamList } from "../types/navigation";
