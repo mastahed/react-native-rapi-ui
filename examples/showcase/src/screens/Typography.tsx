@@ -2,7 +2,7 @@ import React from "react";
 import { ScrollView } from "react-native";
 import { Layout, TopNav, themeColor, useTheme } from "react-native-rapi-ui";
 import TypograpnyCard from "../components/TypographyCard";
-import { Ionicons } from "@expo/vector-icons";
+import Ionicons from "react-native-vector-icons/Ionicons";
 import { MainStackParamList } from "../types/navigation";
 import { StackScreenProps } from "@react-navigation/stack";
 
